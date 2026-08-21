@@ -1,0 +1,42 @@
+# Build output
+/build/
+/dist/
+/out/
+/.vs/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+*.vcxproj
+*.vcxproj.filters
+*.sln
+*.slnx
+
+# Compiled binaries and debug files
+*.asi
+*.dll
+*.exe
+*.lib
+*.exp
+*.obj
+*.pdb
+*.ipdb
+*.iobj
+*.recipe
+*.tlog
+
+# Release archives
+*.zip
+*.7z
+*.rar
+
+# Local runtime/user files
+BattleCreatorPresets.ini
+*.log
+*.tmp
+
+# Local dependency drops
+/third_party/ScriptHook*/
+/third_party/ScriptHookRDR2*/
+
