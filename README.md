@@ -428,9 +428,9 @@ The package script creates `BattleCreator.zip` containing:
 
 ## Screenshots
 
-<img width="1912" height="1077" alt="Screenshot 2026-07-22 004852" src="https://github.com/user-attachments/assets/276b993a-510b-4dd8-a8a4-0e774276dbde" />
-<img width="1916" height="1071" alt="Screenshot 2026-07-22 004834" src="https://github.com/user-attachments/assets/40d8ea6e-de89-481c-aadc-1526b511e33d" />
-<img width="1918" height="1071" alt="Screenshot 2026-07-22 004809" src="https://github.com/user-attachments/assets/1daea300-d156-4f72-a474-0f6310103826" />
-<img width="2559" height="1287" alt="Screenshot 2026-07-22 000851" src="https://github.com/user-attachments/assets/25d9d3b8-61d0-4a6d-854a-09c7668165dc" />
-<img width="2324" height="1185" alt="Screenshot 2026-07-22 000712" src="https://github.com/user-attachments/assets/6a320d5a-75c7-4dcc-96de-1ee22c5f8267" />
-<img width="1193" height="736" alt="Screenshot 2026-07-21 233337" src="https://github.com/user-attachments/assets/21de64e1-246c-45c2-b27d-f45caff9663e" />
+<img width="1916" height="1071" alt="Screenshot 2026-07-22 004834" src="https://github.com/user-attachments/assets/92a451c8-f220-4f0c-a3b5-7a7a65320231" />
+<img width="1916" height="1071" alt="Screenshot 2026-07-22 004822" src="https://github.com/user-attachments/assets/908f42ee-d332-4601-8820-8fec5b4eab53" />
+<img width="2559" height="1287" alt="Screenshot 2026-07-22 000851" src="https://github.com/user-attachments/assets/bee2ae73-6061-4110-8237-5cafc4f709d4" />
+<img width="2324" height="1185" alt="Screenshot 2026-07-22 000712" src="https://github.com/user-attachments/assets/32c78056-8431-4999-9dc7-c7d776b73be4" />
+<img width="1912" height="1077" alt="Screenshot 2026-07-22 004852" src="https://github.com/user-attachments/assets/1c168c6e-957a-41f9-a648-85439a3d0d81" />
+
