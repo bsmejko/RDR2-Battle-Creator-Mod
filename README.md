@@ -425,3 +425,12 @@ The package script creates `BattleCreator.zip` containing:
 - John and Dutch can also benefit from external `pedhealth.meta` / `metapeds.ymt` edits that use player-style health configs.
 - Custom ped sets are for normal selectable ped groups. Named bosses and specials are hardcoded because they need custom stats, loadouts, outfits, and behaviour.
 - The mod is designed for single-player story mode.
+
+## Screenshots
+
+<img width="1912" height="1077" alt="Screenshot 2026-07-22 004852" src="https://github.com/user-attachments/assets/276b993a-510b-4dd8-a8a4-0e774276dbde" />
+<img width="1916" height="1071" alt="Screenshot 2026-07-22 004834" src="https://github.com/user-attachments/assets/40d8ea6e-de89-481c-aadc-1526b511e33d" />
+<img width="1918" height="1071" alt="Screenshot 2026-07-22 004809" src="https://github.com/user-attachments/assets/1daea300-d156-4f72-a474-0f6310103826" />
+<img width="2559" height="1287" alt="Screenshot 2026-07-22 000851" src="https://github.com/user-attachments/assets/25d9d3b8-61d0-4a6d-854a-09c7668165dc" />
+<img width="2324" height="1185" alt="Screenshot 2026-07-22 000712" src="https://github.com/user-attachments/assets/6a320d5a-75c7-4dcc-96de-1ee22c5f8267" />
+<img width="1193" height="736" alt="Screenshot 2026-07-21 233337" src="https://github.com/user-attachments/assets/21de64e1-246c-45c2-b27d-f45caff9663e" />
